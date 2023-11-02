@@ -1,5 +1,7 @@
 # BMP-Image-Analysis-and-Classification
 
+![image](https://github.com/CVKim/BMP-Image-Analysis-and-Classification/assets/90014998/83ca65c9-151d-48e2-8391-643a80d4541e)
+
 This repository contains a Python script `bmp_image_classifier.py` which is designed to analyze BMP images based on two features: the PNG size and the image gradient. After the analysis, it classifies the images using KMeans clustering.
 
 ## Functions
